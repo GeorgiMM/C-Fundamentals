@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\Task1\\P1CreditCardNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\Task1\\P1CreditCardNumber.csproj",
       "projectName": "P1CreditCardNumber",
-      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\Task1\\P1CreditCardNumber.csproj",
+      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\Task1\\P1CreditCardNumber.csproj",
       "packagesPath": "C:\\Users\\Georgi Metodiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P2RectangleArea\\P2RectangleArea.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P2RectangleArea\\P2RectangleArea.csproj",
       "projectName": "P2RectangleArea",
-      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P2RectangleArea\\P2RectangleArea.csproj",
+      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P2RectangleArea\\P2RectangleArea.csproj",
       "packagesPath": "C:\\Users\\Georgi Metodiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P2RectangleArea\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P2RectangleArea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

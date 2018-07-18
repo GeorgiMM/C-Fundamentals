@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P3KilometersToMiles\\P3KilometersToMiles.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P3KilometersToMiles\\P3KilometersToMiles.csproj",
       "projectName": "P3KilometersToMiles",
-      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P3KilometersToMiles\\P3KilometersToMiles.csproj",
+      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P3KilometersToMiles\\P3KilometersToMiles.csproj",
       "packagesPath": "C:\\Users\\Georgi Metodiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P3KilometersToMiles\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P3KilometersToMiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

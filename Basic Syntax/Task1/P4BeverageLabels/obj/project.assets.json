@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P4BeverageLabels\\P4BeverageLabels.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P4BeverageLabels\\P4BeverageLabels.csproj",
       "projectName": "P4BeverageLabels",
-      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P4BeverageLabels\\P4BeverageLabels.csproj",
+      "projectPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P4BeverageLabels\\P4BeverageLabels.csproj",
       "packagesPath": "C:\\Users\\Georgi Metodiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\Basic Syntax\\Task1\\P4BeverageLabels\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Metodiev\\Documents\\GitHub\\C# Fundamentals\\C-Fundamentals\\Basic Syntax\\Task1\\P4BeverageLabels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
