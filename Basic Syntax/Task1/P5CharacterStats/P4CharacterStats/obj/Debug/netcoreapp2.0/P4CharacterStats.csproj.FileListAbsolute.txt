@@ -1,0 +1,11 @@
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\bin\Debug\netcoreapp2.0\P4CharacterStats.deps.json
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\bin\Debug\netcoreapp2.0\P4CharacterStats.runtimeconfig.json
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\bin\Debug\netcoreapp2.0\P4CharacterStats.runtimeconfig.dev.json
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\bin\Debug\netcoreapp2.0\P4CharacterStats.dll
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\bin\Debug\netcoreapp2.0\P4CharacterStats.pdb
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\obj\Debug\netcoreapp2.0\P4CharacterStats.csprojAssemblyReference.cache
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\obj\Debug\netcoreapp2.0\P4CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\obj\Debug\netcoreapp2.0\P4CharacterStats.AssemblyInfoInputs.cache
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\obj\Debug\netcoreapp2.0\P4CharacterStats.AssemblyInfo.cs
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\obj\Debug\netcoreapp2.0\P4CharacterStats.dll
+C:\Users\Georgi Metodiev\source\repos\P4CharacterStats\P4CharacterStats\obj\Debug\netcoreapp2.0\P4CharacterStats.pdb
