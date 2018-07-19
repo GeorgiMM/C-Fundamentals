@@ -1,0 +1,10 @@
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\bin\Debug\netcoreapp2.0\P04WordInPlural.deps.json
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\bin\Debug\netcoreapp2.0\P04WordInPlural.runtimeconfig.json
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\bin\Debug\netcoreapp2.0\P04WordInPlural.runtimeconfig.dev.json
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\bin\Debug\netcoreapp2.0\P04WordInPlural.dll
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\bin\Debug\netcoreapp2.0\P04WordInPlural.pdb
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\obj\Debug\netcoreapp2.0\P04WordInPlural.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\obj\Debug\netcoreapp2.0\P04WordInPlural.AssemblyInfoInputs.cache
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\obj\Debug\netcoreapp2.0\P04WordInPlural.AssemblyInfo.cs
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\obj\Debug\netcoreapp2.0\P04WordInPlural.dll
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\ConditionsAndLopps\P04WordInPlural\obj\Debug\netcoreapp2.0\P04WordInPlural.pdb
