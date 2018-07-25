@@ -1,0 +1,11 @@
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\bin\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.deps.json
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\bin\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.runtimeconfig.json
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\bin\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.runtimeconfig.dev.json
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\bin\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.dll
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\bin\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.pdb
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\obj\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.csprojAssemblyReference.cache
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\obj\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\obj\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\obj\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.AssemblyInfo.cs
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\obj\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.dll
+C:\Users\Georgi Metodiev\Documents\GitHub\C# Fundamentals\C-Fundamentals\Arrays\Task1CondenseArrayOfNumbers\obj\Debug\netcoreapp2.0\Task1CondenseArrayOfNumbers.pdb
